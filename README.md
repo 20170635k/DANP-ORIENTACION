@@ -1,6 +1,10 @@
 # DANP-ORIENTACION
 LABORATORIO ORIENTACION
 
+Se calcula la orientación según el acelerómetro y el magnetómetro.
+
+![alt text](./images/formula.png)
+
 fuentes para crear la app
 
 Calcular la orientación
@@ -14,4 +18,5 @@ http://josejuansanchez.org/android-sensors-overview/accelerometer/README.html
 
 Cómo usar acelerómetro pildoras informáticas
 https://www.youtube.com/watch?v=kDFECsorfqE
+
 
