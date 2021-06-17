@@ -3,7 +3,7 @@ LABORATORIO ORIENTACION
 
 Se calcula la orientación según el acelerómetro y el magnetómetro.
 
-![alt text](./images/formula.png)
+![alt text](images/formula.PNG)
 
 fuentes para crear la app
 
